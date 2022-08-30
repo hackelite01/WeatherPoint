@@ -19,16 +19,6 @@ export const UnitSwitch = ({ onClick, unitSystem }) => {
       >
         Imperial System
       </p>
-
-      <text textalign="center">
-        <a style="font-style:mono">Built in India by with ❤️</a>
-        <a
-          style="font-style: mono; color:Orange;"
-          href="https://www.github.com/hackelite01"
-        >
-          Mayank Rajput👻
-        </a>
-      </text>
     </div>
   );
 };
