@@ -5,7 +5,7 @@ Check the current weather on any city on the planet. Switch between metric and i
 ![Alt img](https://images.ctfassets.net/zlsyc9paq6sa/3uBrJ07WSM40FpolgjInHY/7d886cb4187b52194bf9b63c183a1d3a/1627637330_x.gif)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/29b99eb9-2aea-4015-8244-0905012f9cdd/deploy-status)](https://app.netlify.com/sites/wpweatherpoint/deploys)
-[![CodeFactor](https://www.codefactor.io/repository/github/hackelite01/WeatherPoint/badge)](https://www.codefactor.io/repository/github/hackelite01/MWeatherPoint) 
+[![CodeFactor](https://www.codefactor.io/repository/github/hackelite01/WeatherPoint/badge)](https://www.codefactor.io/repository/github/hackelite01/WeatherPoint) 
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white)](https://www.typescriptlang.org/) [![NextJs](https://img.shields.io/badge/Next.js-43853D?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/en/)
 <a href="https://github.com/hackelite01"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
